@@ -37,7 +37,8 @@ font-family: 'La Belle Aurore', cursive;
     height: 500px;
     border-radius: 100%;
     /* border: 1px solid var(--primary-color); */
-    background-image: url(/Image/Krishna.jpg);
+    background-image: url(https://github.com/Ankit-kumar-sharma/Loader/blob/master/Image/Krishna.jpg?raw=true);
+    /* background-image: url(/Image/Krishna.jpg); */
     animation-name: shadow;
     animation-duration: 4s;
     animation-timing-function: linear;
